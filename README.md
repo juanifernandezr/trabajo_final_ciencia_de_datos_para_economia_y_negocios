@@ -6,6 +6,8 @@ El proyecto sigue un flujo secuencial y reproducible. Es importante descargar la
 
 Puede ejecutarse los scripts individualmente o el script master para ejecutar todos los scripts en orden.
 
+Debido a que algunos csv tienen un peso muy elevado, debimos subirlos a Google Drive. Por ejemplo, en recorridos_2024.csv se encuentra el link a la carpeta pública donde se puede descargar el archivo en formato csv.
+
 ## Scripts
 
 -   **master.R**: ejecuta todos los scripts en orden
